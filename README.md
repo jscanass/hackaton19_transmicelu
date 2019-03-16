@@ -20,3 +20,7 @@ Se implementará una estrategia de realidad virtual en la cual para su uso es re
 ![github-small](https://github.com/jscanass/hackaton19_transmicelu/blob/master/ej4.PNG)
 ![github-small](https://github.com/jscanass/hackaton19_transmicelu/blob/master/ej5.PNG)
 ![github-small](https://github.com/jscanass/hackaton19_transmicelu/blob/master/ej6.PNG)
+
+Resultados del análisis de datos obtendios de la base de datos de la Dijin sobre hurtos de celulares en Colombia enfocado en Bogotá:
+
+https://nbviewer.jupyter.org/github/jscanass/hackaton19_transmicelu/blob/master/hurtos_bogota_2017.ipynb

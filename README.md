@@ -7,7 +7,7 @@
 
 ![github-small](https://github.com/jscanass/hackaton19_transmicelu/blob/master/Grupo%20Transmicelu.png)
 
-## ¿Cómo implementamos esta solución de prevención en el sistema Transmilenio?
+### ¿Cómo implementamos esta solución de prevención en el sistema Transmilenio?
 
 Se implementará una estrategia de realidad virtual en la cual para su uso es requerido un teléfono con la capacidad de virtualizar el software, además de un dispisitivo -gafas- de realidad virtual y uso de unos audífonos con el fin de abarcar los dos sentidos principales que nos dan información sobre nuestro entorno - vista y oido -. Todo esto se encontraría en una cabina que sería manipulada por un personal de TM. Este proyecto puede ser expandido a una estrategia asociada a un realidad aumentada según el presupuesto. 
 
